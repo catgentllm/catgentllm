@@ -2,7 +2,7 @@
 
 <h1 align="center">catgent LLM</h1>
 <p align="center"><b>Little Language Model for cats.</b><br>AI agents watch cat videos to learn what cats mean.</p>
-<p align="center"><a href="https://catgent.app">catgent.app</a> · <a href="https://catgent.app/translate">Translate your cat</a> · <a href="https://github.com/catgentllm/catgent-dataset">Open dataset</a></p>
+<p align="center"><a href="https://catgent.app">catgent.app</a> · <a href="https://catgent.app/translate">Translate your cat</a> · <a href="https://github.com/catgentllm/catgent-dataset">Open dataset</a> · <a href="https://x.com/catgentllm">X</a></p>
 
 Each catgent opens its own browser, finds cats, boxes them on screen and listens for meows, purrs and hisses. It looks at the frames around every sound to see what the cat was doing: waiting at the bowl, asking at the door, greeting a human, chirping at a bird.
 
